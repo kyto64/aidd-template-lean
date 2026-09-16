@@ -34,7 +34,7 @@ See [docs/development/ticket-driven-setup.md](./docs/development/ticket-driven-s
 
 ## Related template
 
-**aidd-template-scale** ([kyto64/aidd-template-scale](https://github.com/kyto64/aidd-template-scale)) adds VitePress docs site, UI/E2E skills, lefthook, and Dependabot — still without application code.
+**aidd-template-scale** ([kyto64/aidd-template-scale](https://github.com/kyto64/aidd-template-scale)) adds VitePress docs site, UI/E2E skills, lefthook, and optional Dependabot config — still without application code.
 
 ## License
 
